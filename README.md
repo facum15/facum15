@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/13894906?v=4https://avatars.githubusercontent.com/u/13894906?v=4" />
+   <img align="center" width="200" src="https://media.licdn.com/dms/image/v2/D4D03AQEaehdLtu8oHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1681483681000?e=1732147200&v=beta&t=CBkf7_Bw3GnRSos7C9KMj7xqBzC7nv_jXWp1einuLYg" />
    <h2 align="center">¡Hi 👋! I'm Facundo Martinez 👨🏻‍💻</h2>
    <h3 align="center"><b>Software Engineer</b></h3>
 </p>
@@ -11,7 +11,7 @@
 
 <div align="center"></br>
   
-  [![Top Langs](https://github-readme-stats-v1-facum15s-projects.vercel.app/api/top-langs/?username=facum15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-v1-facum15s-projects.vercel.app/api/top-langs/?username=facum15&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   </br>
   
   <picture>
