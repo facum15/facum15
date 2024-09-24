@@ -11,20 +11,10 @@
 
 <div align="center"></br>
   
-  [![Top Langs](https://github-readme-stats-v1-facum15s-projects.vercel.app/api/top-langs/?username=facum15&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-v1-facum15s-projects.vercel.app/api/top-langs/?username=facum15&layout=donut&theme=dark&langs_count=8&size_weight=0.7&count_weight=0.3)](https://github.com/facum15/github-readme-stats)
   </br>
   
-  <picture>
-    <source
-      srcset="https://github-readme-stats-v1-facum15s-projects.vercel.app/api?username=facum15&show_icons=true&theme=dark&hide=stars,issues"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-v1-facum15s-projects.vercel.app/api?username=facum15&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats-v1-facum15s-projects.vercel.app/api?username=facum15&show_icons=true" />
-  </picture>
+  ![Facum15's GitHub stats](https://github-readme-stats-v1-facum15s-projects.vercel.app/api?username=facum15&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true&rank_icon=percentile&theme=dark&include_all_commits)
 
 </div></br>
 
